@@ -1,2 +1,2 @@
-# Desafio-bamcario.-Dio
+# Desafio-bancario.-Dio
 Desafio de código bancario
